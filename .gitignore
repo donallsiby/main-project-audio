@@ -1,0 +1,11 @@
+# Ignore installed models and large files
+backend/audiocraft/assets/
+backend/generated_audio/
+*.pyc
+__pycache__/
+*.pkl
+*.bin
+*.h5
+*.pt
+*.ckpt
+node_modules
